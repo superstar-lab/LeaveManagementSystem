@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="2">
+        <file>
+            <url>src/sabah/EmployeesGeneralUsers.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>40</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/sabah/LoginUI.java</url>
+            <bookmark id="2">
+                <name/>
+                <line>247</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/yazan/Documents/NetBeansProjects/LeaveManagementSystem/src/sabah/LeaveRequest.java</file>
+            <file>file:/C:/Users/yazan/Documents/NetBeansProjects/LeaveManagementSystem/src/sabah/EditLeaveManagementUI.java</file>
+            <file>file:/C:/Users/yazan/Documents/NetBeansProjects/LeaveManagementSystem/src/sabah/Departments.java</file>
+            <file>file:/C:/Users/yazan/Documents/NetBeansProjects/LeaveManagementSystem/src/sabah/DatabaseOperation.java</file>
+            <file>file:/C:/Users/yazan/Documents/NetBeansProjects/LeaveManagementSystem/src/sabah/EditUserUI.java</file>
+            <file>file:/C:/Users/yazan/Documents/NetBeansProjects/LeaveManagementSystem/src/sabah/LeaveManagementUI.java</file>
+            <file>file:/C:/Users/yazan/Documents/NetBeansProjects/LeaveManagementSystem/src/sabah/LeaveManagementManager.java</file>
+            <file>file:/C:/Users/yazan/Documents/NetBeansProjects/LeaveManagementSystem/src/sabah/AdminUsers.java</file>
+            <file>file:/C:/Users/yazan/Documents/NetBeansProjects/LeaveManagementSystem/src/sabah/DepartmentsUI.java</file>
+            <file>file:/C:/Users/yazan/Documents/NetBeansProjects/LeaveManagementSystem/src/sabah/EmployeesUI.java</file>
+            <file>file:/C:/Users/yazan/Documents/NetBeansProjects/LeaveManagementSystem/src/sabah/EditEmployeeUI.java</file>
+        </group>
+    </open-files>
+</project-private>
